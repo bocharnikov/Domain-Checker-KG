@@ -4,7 +4,7 @@
 
 ## Настройка
 
-Для отправки [HTML](https://github.com/g13nn/Email-Framework) отчёта на почту необходимо указать e-mail.
+Для отправки [HTML](https://github.com/g13nn/Email-Framework) отчёта на почту необходимо указать e-mail. (36 строка)
 
 **Пример**
 ```
